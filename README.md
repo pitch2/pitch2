@@ -1,5 +1,5 @@
 # Hi there, I'm Pitch2 
-<img align="left" width="50%" src=" 	https://github-readme-stats.vercel.app/api/top-langs/?username=pitch2&theme=blue-green" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitch2&theme=blue-green" />
 
 
 - 👋 Hi, I’m @pitch2
