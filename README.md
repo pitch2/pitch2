@@ -6,3 +6,4 @@
 - 👀 I’m coding mostly in Python and HTML (CSS...)
 - 🌱 I’m currently learning university in France
 - 📫 If you pick me up, my instagram @pichon_adrien, my discord is pitch#8446
+- 🚧 My principal project is GenCode
