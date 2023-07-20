@@ -6,4 +6,4 @@
 - 👀 I’m coding mostly in Python and HTML (CSS...)
 - 🌱 I’m currently learning university in France
 - 📫 If you pick me up, my instagram @pichon_adrien, my discord is pitch#8446
-- 🚧 My principal project is GenCode
+- ETH -> 0xEbf87922E27A35E63D52213F5d9B2cEda1e1ED50 
