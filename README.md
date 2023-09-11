@@ -1,6 +1,4 @@
 # Hi there, I'm Adrien 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pitch2)](https://github.com/pitch2/github-readme-stats)
-
 
 
 - 👋 Hi, I’m @pitch2
