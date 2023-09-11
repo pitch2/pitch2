@@ -1,5 +1,5 @@
 # Hi there, I'm Adrien 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitch2&langs_count=8)
 
 - 👋 Hi, I’m @pitch2
 - 👀 I’m coding mostly in Python and HTML (CSS...)
