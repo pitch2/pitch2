@@ -6,4 +6,5 @@
 - 👀 I’m coding mostly in Python and HTML (CSS...)
 - 🌱 I’m currently learning university in France
 - 📫 If you pick me up, my instagram @pichon_adrien, my discord is pitch1on
-- </> My current project is on OSINT
+- </> My current project is ???
+- I love servers
